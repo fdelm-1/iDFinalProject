@@ -42,4 +42,4 @@
 
 6. Open the output image that will have appeared and see the results
 
-[View a video explanation here](video link)
+   [Here is the video guide to using the algorithm.](https://www.youtube.com/watch?v=kKGlmmkxOJ8)
